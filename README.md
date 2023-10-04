@@ -6,6 +6,33 @@
     
 </div>
 
+# Yolanda Zahonero
+
+![GitHub Profile](https://github.com/yzadeveloper)
+
+Desarrolladora Full Stack | Apasionada por la creación de soluciones web y las nuevas tecnologías.
+
+## Experiencia en Tecnologías
+
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) Laravel
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+- ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) React.js
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) Tailwind CSS
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap
+
+## Herramientas y Recursos
+
+- ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) Trello
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) Figma
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) GitHub
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/yolandazahoneroalfaro/)
+- [Correo Electrónico](mailto:alfaroyolanda@hotmail.com)
+
+
 
 <!--
 **alfaryolanda79/alfaryolanda79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
