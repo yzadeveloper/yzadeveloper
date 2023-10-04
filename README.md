@@ -1,33 +1,4 @@
-<style>
-  .pacman-container {
-    width: 50px;
-    height: 50px;
-    position: relative;
-    overflow: hidden;
-  }
 
-  .pacman {
-    width: 0;
-    height: 0;
-    border-right: 25px solid transparent;
-    border-top: 25px solid yellow;
-    border-left: 25px solid yellow;
-    border-bottom: 25px solid yellow;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    position: absolute;
-    animation: eat 0.5s infinite;
-  }
-
-  
-</style>
-
-
-<div class="pacman-container">
-  <div class="pacman"></div>
-</div>
 
 
 <div id="header" align="center">
