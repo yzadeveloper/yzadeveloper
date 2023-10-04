@@ -6,11 +6,7 @@
     
 </div>
 
-# Yolanda Zahonero
-
-![GitHub Profile](https://github.com/yzadeveloper)
-
-Desarrolladora Full Stack | Apasionada por la creación de soluciones web y las nuevas tecnologías.
+# Desarrolladora Full Stack | Apasionada por la creación de soluciones web y las nuevas tecnologías.
 
 ## Experiencia en Tecnologías
 
