@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hellooo 👋, I'm Yolanda</h1>
-# Full Stack Developer | Passionate about creating web solutions and new technologies.
+<h2> Full Stack Developer | Passionate about creating web solutions and new technologies.</h2>
 
 ## Technology Experience
 
