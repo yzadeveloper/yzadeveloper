@@ -21,14 +21,7 @@
     animation: eat 0.5s infinite;
   }
 
-  @keyframes eat {
-    0%, 100% {
-      transform: rotate(45deg);
-    }
-    50% {
-      transform: rotate(0deg);
-    }
-  }
+  
 </style>
 
 
