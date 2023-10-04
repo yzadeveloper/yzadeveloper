@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hellooo 👋, I'm Yolanda</h1>
 <h2 align="center">Full Stack Developer | Passionate about creating web solutions and new technologies.</h2>
 
@@ -36,6 +35,23 @@
         </ul>
       </td>
       <td valign="top">
+        <h3>And also</h3>
+        <ul>
+          <li>
+            <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+            Trello
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+            Figma
+          </li>
+          <li>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+            GitHub
+          </li>
+        </ul>
+      </td>
+      <td valign="top">
         <h3>Contact</h3>
         <ul>
           <li>
@@ -50,8 +66,7 @@
   </table>
 </div>
 
-
-<div align="center">
+<div id="header" align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAwZWZjOTc5NDM2Y2E0NWM5Zjk5MmRhZjlhMjlhNTM0YTYwYmY2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wf5mC3pbEOl8jySCJe/giphy.gif" width="200" >
 </div>
 
