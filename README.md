@@ -9,6 +9,10 @@
         <h3>Technology Experience</h3>
         <ul>
           <li>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+            Python
+          </li>
+          <li>
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
             PHP
           </li>
