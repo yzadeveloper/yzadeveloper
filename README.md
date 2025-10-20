@@ -62,7 +62,7 @@
             <a href="https://www.linkedin.com/in/yolandazahoneroalfaro/">LinkedIn</a>
           </li>
           <li>
-            <a href="mailto:alfaroyolanda@hotmail.com">Email</a>
+            <a href="mailto:">Email</a>
           </li>
         </ul>
       </td>
