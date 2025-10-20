@@ -1,5 +1,5 @@
 
-<h1 align="center">Hellooo 👋, I'm Yolanda</h1>
+<h1 align="center">Hi 👋, I'm Yolanda</h1>
 <h2 align="center">Full Stack Developer | Passionate about creating web solutions and new technologies.</h2>
 
 <div align="center">
