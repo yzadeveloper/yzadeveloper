@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yolanda</h1>
-<h2 align="center">SysAdmin | Full Stack Developer | Passionate about creating web solutions and new technologies.</h2>
+<h2 align="center">SysAdmin | Full Stack Developer</h2>
 
 <div align="center">
   <table>
